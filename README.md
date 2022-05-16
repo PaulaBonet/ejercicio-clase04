@@ -1,1 +1,3 @@
-# ejercicio-clase04
+# EJERCICIO CLASE 04
+
+este es el primer intento de trabajo colaborativo
